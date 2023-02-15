@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_hand-guesture_name ,#result_hand-guesture_name2  
+{
+  color: black;
+}
+.hand-guesture_name
+{
+  font-size: 40px;
+}
+.hand-guesture
+{
+  font-size:48px;
+}
+
+label
+{
+  font-size:21.7543493843983434743879px;
+  padding:6.3273843987864367574px;
+  background-color:white;
+  color:rgb(0, 255, 204);
+  border-radius:15.392834626437638789px;
+}
